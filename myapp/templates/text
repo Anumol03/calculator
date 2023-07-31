@@ -1,0 +1,4 @@
+ <!-- django template language DTL {{}} {%%}-->
+ <!-- cross site request forgery attack -->
+        <!-- {{}} simple task displaying a value{%%}complex -->
+        <!-- request.POST={"csrfmt":,"num1":100,"num2":200} -->
